@@ -3,13 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunopp29&label=Profile%20views&color=0e75b6&style=flat" alt="brunopp29" /> </p>
 
-- 🌱 I’m currently learning **PHP, JS e Framewoks**
+- 🌱 Atualmente estou aprendendo **PHP, JS e Framewoks**
 
-- 📫 How to reach me **bruno762ix@gmail.com**
+- 📫 Como me chamar **bruno762ix@gmail.com**
 
-- 📄 Know about my experiences [aaaaaaaaa](aaaaaaaaa)
+- 📄 Meus projetos [Desenvolvi Altos Santa Clara](https://altossantaclara.com)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
