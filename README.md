@@ -4,7 +4,6 @@
 
 - Desenvolvi : <a href='https://altossantaclara.com'>Altos da Santa Clara</a>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
